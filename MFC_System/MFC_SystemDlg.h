@@ -1,7 +1,7 @@
 
 // MFC_SystemDlg.h : º–¿Y¿…
 //
-
+//master at mine
 #pragma once
 #include "afxwin.h"
 #include "afxcmn.h"
